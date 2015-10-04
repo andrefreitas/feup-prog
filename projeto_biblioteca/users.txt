@@ -1,0 +1,21 @@
+*Número total de utilizadores*: 4
+
+ID: 1
+Joao
+Activo: 1
+Livros em posse(ID): 0
+
+ID: 2
+Carlos
+Activo: 1
+Livros em posse(ID): 0
+
+ID: 3
+Maria
+Activo: 1
+Livros em posse(ID): 0
+
+ID: 4
+Simao
+Activo: 0
+Livros em posse(ID): 0
